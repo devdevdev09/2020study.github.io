@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "DAEWON HEO"
+  name             : "허대원"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "**2020** 스터디 블로그."
   location         : "Seoul"
   email            : "heo1992@kakao.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:heo1992@kakao.com
+      #url: mailto:heo1992@kakao.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
