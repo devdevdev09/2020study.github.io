@@ -295,3 +295,7 @@ defaults:
       related: true
   
 #remote_theme : mmistakes/minimal-mistakes
+
+#category add
+category_dir: category/
+tag_dir: tag/
