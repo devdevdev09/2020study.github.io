@@ -60,9 +60,6 @@ categories: noitce
 - 참여하실분은 댓글이나 개인적으로 연락 주시면 됩니다.
 - 기타 질문들도 댓글이나 카카오톡 또는 메일로 보내주시면 확인 후 답변하겠습니다.
 
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
