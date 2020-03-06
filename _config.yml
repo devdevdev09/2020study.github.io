@@ -297,5 +297,5 @@ defaults:
 #remote_theme : mmistakes/minimal-mistakes
 
 #category add
-category_dir: category/
+category_dir: categories/
 tag_dir: tag/
