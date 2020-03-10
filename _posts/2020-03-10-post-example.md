@@ -10,7 +10,6 @@ categories: example
 
 ![testStudy](https://user-images.githubusercontent.com/53975137/76321957-13c7f500-6326-11ea-9850-45eb6b224073.gif)
 
-
 > 코드 블럭 예시   
 - JavaScript
 ```javascript
