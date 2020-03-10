@@ -1,6 +1,6 @@
 ---
 title: "게시물 작성 예시"
-date: 2020-02-22 11:30:00 -0400
+date: 2020-03-10 23:50:00 -0400
 categories: example
 ---
 
@@ -10,7 +10,8 @@ categories: example
 
 ![testStudy](https://user-images.githubusercontent.com/53975137/76321957-13c7f500-6326-11ea-9850-45eb6b224073.gif)
 
-> 코드 블럭 예시   
+> 코드 블럭 예시
+
 - JavaScript
 ```javascript
 const test = function(msg){
