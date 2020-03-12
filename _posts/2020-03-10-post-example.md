@@ -12,7 +12,8 @@ categories: example
 
 > 코드 블럭 예시
 
-- JavaScript
+- JavaScript   
+
 ```javascript
 const test = function(msg){
     console.log(msg);
@@ -23,7 +24,8 @@ test("test");
 ```
 
 
-- Java
+- Java   
+
 ```Java
 ArrayList<String> strs = new ArrayList<String>();
 
@@ -36,7 +38,8 @@ for(String str : strs){
 
 ```
 
-- cmd
+- cmd   
+
 ```cmd
 > node --version
 
@@ -45,7 +48,8 @@ for(String str : strs){
 > npm install
 ```
 
-- git
+- git   
+
 ```git
 > git init
 
